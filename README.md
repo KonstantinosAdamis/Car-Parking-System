@@ -1,9 +1,9 @@
 # Car-Parking-System
 A Car Parking System with Arduino UNO R3
 
-For this project you will need 1 Arduino UNO R3, 1 Buzzer, 1 HC-SR04 Ultrasonic Distance Sensor, 1 LED and 1 220 Ω Resistor.
+-For this project you will need 1 Arduino UNO R3, 1 Buzzer, 1 HC-SR04 Ultrasonic Distance Sensor, 1 LED and 1 220 Ω Resistor.
 
-The system helps the driver from having an accident with an object (e.g. wall) during the parking process.
+-The system helps the driver from having an accident with an object (e.g. wall) during the parking process.
 
 🎯 How This Works:
 
@@ -14,5 +14,7 @@ The system helps the driver from having an accident with an object (e.g. wall) d
 ✅ Beep & Blink get faster as object gets closer
 
 ✅ Works up to 400+ cm smoothly
+
+-Project link:
 
 https://wokwi.com/projects/424349821986736129

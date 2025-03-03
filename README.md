@@ -15,6 +15,4 @@ A Car Parking System with Arduino UNO R3
 
 ✅ Works up to 400+ cm smoothly
 
--Project link:
-
-https://wokwi.com/projects/424349821986736129
+-Project link: https://wokwi.com/projects/424349821986736129

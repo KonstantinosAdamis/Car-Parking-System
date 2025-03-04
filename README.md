@@ -16,5 +16,3 @@ The sensor helps the driver from having an accident with an object (e.g. a wall)
 Project link:
 
 https://wokwi.com/projects/424349821986736129
-
-![Screenshot 2025-03-04 143732](https://github.com/user-attachments/assets/f8be0c2e-7db2-408a-8be6-9c79628c20f3)

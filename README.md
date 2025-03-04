@@ -1,7 +1,7 @@
 # Car-Parking-Sensor
 A Car Parking Sensor with Arduino UNO R3
 
-The sensor helps the driver from having an accident with an object (e.g. a wall) during the parking process.
+The sensor (HC-SR04) helps the driver from having an accident with an object (e.g. a wall) during the parking process.
 
 🎯 How This Works:
 
